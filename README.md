@@ -1,4 +1,4 @@
-# 🔍 Digital Forensics Investigations
+# Digital Forensics Investigations
 
 <p align="center">
   <img src="https://img.shields.io/badge/CAINE%20Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
@@ -8,11 +8,11 @@
   <img src="https://img.shields.io/badge/NIST%20Guidelines-003087?style=for-the-badge&logo=nist&logoColor=white" />
 </p>
 
-> 🎓 Graduate-level digital forensics portfolio covering forensic imaging, evidence preservation, chain of custody, MITM attack detection, ARP poisoning investigation, source code exfiltration analysis, and cybercrime investigation — following NIST forensic methodology throughout.
+> Graduate-level digital forensics portfolio covering forensic imaging, evidence preservation, chain of custody, MITM attack detection, ARP poisoning investigation, source code exfiltration analysis, and cybercrime investigation — following NIST forensic methodology throughout.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository documents hands-on digital forensics investigations completed during **graduate-level Digital Forensics coursework** at Minnesota State University Moorhead. Each investigation follows the standard forensic methodology — identification, preservation, collection, examination, analysis, and reporting — using industry-standard tools and legally defensible procedures.
 
@@ -20,7 +20,7 @@ This repository documents hands-on digital forensics investigations completed du
 
 ---
 
-## 🔬 Forensic Methodology
+## Forensic Methodology
 
 ```
 1. Identification   →   Scope the incident and identify evidence sources
@@ -33,18 +33,18 @@ This repository documents hands-on digital forensics investigations completed du
 
 ---
 
-## 📋 Contents at a Glance
+## Contents at a Glance
 
 | # | Type | Title | Key Tools |
 |---|------|-------|-----------|
-| Lab 1 | 🔬 Lab | Local Bank File Server Breach Investigation | NIST, CFAA, GLBA |
-| Project 1 | 🚀 Project | Forensic Lab Setup & Disk Imaging | CAINE, Guymager, dcfldd |
-| Project 2 | 🚀 Project | MITM Attack Detection via ARP Poisoning | Wireshark, ARP Analysis |
-| Project 3 | 🚀 Project | Source Code Exfiltration Investigation | Wireshark, SMB, Chain of Custody |
+| Lab 1 | Lab | Local Bank File Server Breach Investigation | NIST, CFAA, GLBA |
+| Project 1 | Project | Forensic Lab Setup & Disk Imaging | CAINE, Guymager, dcfldd |
+| Project 2 | Project | MITM Attack Detection via ARP Poisoning | Wireshark, ARP Analysis |
+| Project 3 | Project | Source Code Exfiltration Investigation | Wireshark, SMB, Chain of Custody |
 
 ---
 
-## 🔬 Lab 1 — Local Bank File Server Breach Investigation
+## Lab 1 — Local Bank File Server Breach Investigation
 
 **Scenario:** A local bank suspects unauthorized access to its file server. Conduct a preliminary investigation following legal and regulatory guidelines.
 
@@ -60,7 +60,7 @@ This repository documents hands-on digital forensics investigations completed du
 
 ---
 
-## 🚀 Project 1 — Forensic Lab Setup & Disk Imaging
+## Project 1 — Forensic Lab Setup & Disk Imaging
 
 **Objective:** Build a professional forensic workstation and perform evidence-grade disk imaging with cryptographic verification.
 
@@ -79,7 +79,7 @@ This repository documents hands-on digital forensics investigations completed du
 
 ---
 
-## 🚀 Project 2 — MITM Attack Detection via ARP Poisoning
+## Project 2 — MITM Attack Detection via ARP Poisoning
 
 **Scenario:** Analyze a suspicious packet capture to determine whether a Man-in-the-Middle attack occurred on the network.
 
@@ -105,7 +105,7 @@ PCAP Acquired  →  Wireshark Analysis  →  ARP Table Inspection
 
 ---
 
-## 🚀 Project 3 — Source Code Exfiltration Investigation
+## Project 3 — Source Code Exfiltration Investigation
 
 **Scenario:** A company suspects an insider threat has exfiltrated proprietary source code via the network. Investigate and produce a court-ready forensic report.
 
@@ -120,19 +120,19 @@ PCAP Acquired  →  Wireshark Analysis  →  ARP Table Inspection
 | Conclusion | Evidence consistent with deliberate data exfiltration |
 
 ### Deliverables Produced
-- ✅ Full forensic investigation report
-- ✅ **Chain of Custody Form** (`.xlsx`) — legally defensible evidence tracking
-- ✅ **Examiner Notes** (`.xlsx`) — timestamped investigation log
-- ✅ Presentation slide deck
+- Full forensic investigation report
+- **Chain of Custody Form** (`.xlsx`) — legally defensible evidence tracking
+- **Examiner Notes** (`.xlsx`) — timestamped investigation log
+- Presentation slide deck
 
 **Skills:** SMB Analysis · Timeline Reconstruction · Insider Threat Investigation · Source Code Recovery · Chain of Custody · Forensic Reporting · Evidence Correlation
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
-📦 Digital-forensics-investigations
+Digital-forensics-investigations
 ├── 📄 README.md
 ├── 📋 Digital Forensics - Lab 1 - Hashan Kodippilige.pdf
 ├── 📋 Digital Forensics - Project 1 - Hashan Kodippilige.pdf
@@ -145,7 +145,7 @@ PCAP Acquired  →  Wireshark Analysis  →  ARP Table Inspection
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Category | Tools |
 |----------|-------|
@@ -157,13 +157,13 @@ PCAP Acquired  →  Wireshark Analysis  →  ARP Table Inspection
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 `Digital Forensics` `Evidence Acquisition` `Forensic Imaging` `Chain of Custody` `CAINE Linux` `Guymager` `dcfldd` `Wireshark` `ARP Poisoning` `MITM Detection` `SMB Analysis` `Source Code Exfiltration` `Timeline Reconstruction` `Incident Response` `NIST SP 800-86` `CFAA` `GLBA` `Forensic Reporting`
 
 ---
 
-## 💡 Real-World Relevance
+## Real-World Relevance
 
 This portfolio maps directly to:
 - **Digital Forensics Analyst** roles — full investigation lifecycle from imaging to court-ready reporting
@@ -173,13 +173,13 @@ This portfolio maps directly to:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 All investigations were conducted in **authorized, isolated educational lab environments** using synthetic evidence and simulated scenarios for academic purposes only. No real systems, networks, or individuals were targeted.
 
 ---
 
-## 👤 Author
+## Author
 
 **Hashan Kodippilige**  
 M.S. Cybersecurity — Minnesota State University Moorhead  
